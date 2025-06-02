@@ -153,16 +153,15 @@ Zocial offers a dynamic social platform where users can post text, media, and st
 
 ### 🖥️ Frontend
 
-- SvelteKit or Next.js
+- Next.js
 - TailwindCSS + shadcn/ui
-- TanStack Query or Svelte Query
+- TanStack Query
 - Role-based routing and layouts
 
 ### ⚙️ Backend
 
 - Supabase (PostgreSQL + Auth + Realtime)
-- Node.js with Express (optional for custom logic/API)
-- Prisma ORM (if not using Supabase client)
+- Node.js
 
 ### 📦 Tools & Integrations
 
